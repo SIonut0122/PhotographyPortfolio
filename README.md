@@ -2,7 +2,7 @@
 ## Simple Photography website - React.js / Bootstrap
 
 
-![alt text](http://ionutdev.com/public_html/static/media/photo_port_proj.1df91089.png)
+![alt text](http://ionutdev.com/static/media/photo_port_proj.1df91089.png)
 
 
 
