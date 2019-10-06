@@ -2,9 +2,9 @@
 ## Simple Photography website - React.js / Bootstrap
 
 
-![alt text](http://i65.tinypic.com/9hlu2v.png)
+![alt text](http://ionutdev.com/public_html/static/media/photo_port_proj.1df91089.png)
 
-![alt text](http://i65.tinypic.com/210g2ki.jpg)
+
 
 ## About: 
 	This app website project was created to be used like a photography portfolio and to allow me to create a more curated version of my photography and mockup portofolio.
